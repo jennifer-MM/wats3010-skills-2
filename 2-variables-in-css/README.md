@@ -75,10 +75,7 @@ In this assignment, you'll use CSS variables to create custom color pairs for a 
 ```  
 Apply odd colors to the odd list items using this code:
 ```
- li:nth-child(odd) {
-      color: var(--odd-color);
-      background-color: var(--odd-bg-color);
-    }
+ 
 ```  
 
 ### Solution  
