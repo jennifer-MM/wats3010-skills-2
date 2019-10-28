@@ -18,9 +18,7 @@
       .container>* {
         background: #eeeeee;
       }
-      ```
-      4. Provide some padding within each cell in the grid:
-      ```
+     
       .container>header,
         nav,
         aside,
