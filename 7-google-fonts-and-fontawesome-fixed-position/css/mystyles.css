@@ -1,0 +1,7 @@
+p:nth-child(even) {
+    font-family: 'Prociono', serif;
+  }
+  
+  p:nth-child(odd) {
+    font-family: 'Cairo', sans-serif;
+  }

@@ -8,6 +8,7 @@ html {
 h1 {
   text-align: center;
   margin: 20px;
+  font-family: 'Prociono', serif;
 }
 section {
   display: grid;
